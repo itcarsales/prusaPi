@@ -14,8 +14,8 @@
 ## Requirements:
 - Prusa 3D Printer (MK2/3 and MMU)
 - Raspberry Pi 3 or 4 with adequate Power Supply
-  - You MAY be able to get by with a Pi 2 and video, but it is not recommended.
-  - A Zero can handle print control, or video...but not both reliably.
+  - Since there is only 1 reliable UART, a Zero can handle print control, or video...but not both reliably.
+  - A Zero could be the perfect choice for Print Farm Individual Management without video
 - Raspberry Pi Camera Module with ribbon cable
 - 8Gb SD Card or larger
 - USB Cable include with Prusa Printer
