@@ -73,4 +73,10 @@
   
  ## COMING SOON
   Add an additional piHome Server to enable piHole adblocking, NodeRED IOT server, and VPN access for OctoPrint anywhere control.
+
+  <hr>
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MLRHALWRP3KJC)
+
+bitcoin donations: 19J2vXb7Zj57fQxtGXHqmq6pFDoeW7jAVb
   
