@@ -53,6 +53,7 @@
     - ```bash <(curl -Ls https://github.com/itcarsales/prusaPi/raw/master/packageInstaller.sh)```
     - This will update and install the required Raspbian Buster dependencies for this project (current as of 2-2020)
     - depending on your model Pi, this could take some time.
+    - WARNING - this will download about 800Mb of data updates.  An unstable connection may result in a bad time.
 
 # Step 4) Software Installation
   - run the following command to download the setup script from this repo
