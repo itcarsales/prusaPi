@@ -2,7 +2,9 @@
   OctoPrint full install script for Raspberry Pi 2/3/4 with camera and Prusa MK series 3D printer
 
   This project is not meant to replace OctoPi, but to give Prusa Users a basic install with profiles already created, most settings already configured, and an easy out-of-box experience.  This project does not walk a user through flashing images, or setting up wifi.  It assumes the user can image an SD card, add the blank SSH file, add their own wpa_supplicant.conf, and connect to their fresh Raspbian install via SSH.  I will only touch on these steps, and place example files in the project.
-  
+
+![prusaPi Camera Case](https://github.com/itcarsales/prusaPi/blob/master/images/camera.jpg)
+
 ## Configures
 - OctoPrint (latest release build)
 - Fail2Ban (extra security)
