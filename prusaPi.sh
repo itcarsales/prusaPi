@@ -239,7 +239,7 @@ extruder:
   sharedNozzle: false
 heatedBed: true
 heatedChamber: false
-id: _default
+id: Prusa_Generic_MK3
 model: Prusa_Generic_MK3
 name: Prusa_Generic_MK3
 volume:
